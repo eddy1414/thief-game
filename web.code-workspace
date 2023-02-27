@@ -9,5 +9,8 @@
         {
             "path": "../web2"
         }
-    ]
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "web"
+    }
 }
